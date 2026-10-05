@@ -1,4 +1,4 @@
-# This script is written by Eray
+# Junior Dev: Eray
 
 def _format_command(start, end):
     if start == end:
